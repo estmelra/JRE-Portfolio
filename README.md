@@ -1,10 +1,40 @@
 # JRE Portfolio
 
-# About me
+# Abut me
+Hi there!
 
-name / nationality
-Carrer overview
-aspitrions (remote flexible job)
+My name is Ramón Estévez. Before jumping into my personal portfolio I wanted to tell you a little bit about my background. 
+
+### Studies:
+* MASTER’S IN DATA SCIENCE AND BUSINESS INTELLIGENCE – IE Business School (01/02/2019 – 01/07/2020 – Madrid, Spain)
+* MASTER IN AQUACULTURE – James Cook University (01/06/2015 – 01/06/2016 –QLD, Australia)
+* BACHELOR ́S DEGREE IN BIOLOGY – Complutense University (01/10/2010 – 01/10/2015 – Madrid, Spain)
+
+### Carrer:
+* DATA SCIENTIST – STOLT SEAFARM (Santiago de Compostela, Spain - REMOTE)
+  * Developing application for production forecasting and profit optimisation (shiny app) 
+  * AB testing
+  * Data visualisation with PowerBi and Shiny dashboards
+  * Report automation
+  * Data gathering and management (ETL) 
+  * IoT, automation of data gathering
+
+* FOOD PRODUCTION MANAGER – NUEVA PESCANOVA (01/03/2018 – 01/07/2018 – Chinandega, Nicaragua) 
+  * Recirculating prawn maturation facility
+  * Green waters larviculture facility
+  * Biofloc genetic improvement facility
+  * Bacteriology, histology, PCR and quality lab
+
+* DATA ANALYST – NUEVA PESCANOVA (01/01/2017 – 01/02/2018 – Lugo, Spain)
+  * Data analyses
+  * Excel Macro development for report automation 
+  * Data gathering
+  * IoT 
+
+
+
+
+
 
 
 # Portfolio intro
@@ -14,7 +44,7 @@ Welcome to the first mini project of my personal portfolio where I create a web 
 * [Data extraction via web scraping](https://github.com/estmelra/idealista/blob/main/scraper.ipynb)
 * Data cleaning and preparation
 * Exploratory Data Analysis (EDA)
-* Machine Learning Regression model to estimate house price
+* Machine Learning Regression model to estimate property price
 
 
 # Why idealista?
