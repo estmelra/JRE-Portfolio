@@ -11,7 +11,7 @@ aspitrions (remote flexible job)
 
 Welcome to the first mini project of my personal portfolio where I create a web scraper to obtain valuable information from Idealista. When structuring my portfolio I thought that a good Exploratory Data Analysis (EDA) was the first thing I needed to do in order to showcase my abilities. After searching for a messy dataset I could work with for some time I decided to create my own scraper to obtain data for my analysis. So this project will be divided into tree parts:
 
-* [Data extraction via web scraping] (https://github.com/estmelra/idealista/blob/main/scraper.ipynb)
+* [Data extraction via web scraping](https://github.com/estmelra/idealista/blob/main/scraper.ipynb)
 * Data cleaning and preparation
 * Exploratory Data Analysis (EDA)
 * Machine Learning Regression model to estimate house price
