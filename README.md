@@ -46,7 +46,7 @@ In this web site I will be posting all my projects. Note that only a brief descr
 This is the first project of my personal portfolio. [idealista.com](https://www.idealista.com) is one of the most popular real state website that Spanish people use to trade properties in Spain. The goal here is to explore the housing market in my home city (Cádiz - Spain). I thought that this project could be interesting because it implies four key skills in Data science, web scraping, data cleansing, exploratory data analysis and a bit of machine learning. My goal then is to obtain data, clean and structure it, get insights and train an ML model able to predict the price of a property based on its characteristics. This project is divided in four sections:
 
 * [Data extraction via web scraping](https://github.com/estmelra/idealista/blob/main/scraper.ipynb)
-* Data cleaning and preparation
+* [Data cleaning and preparation](https://github.com/estmelra/idealista/blob/main/data_preparation.ipynb)
 * Exploratory Data Analysis (EDA)
 * Machine Learning Regression model to estimate property price
 
