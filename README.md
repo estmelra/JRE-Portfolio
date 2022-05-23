@@ -47,7 +47,7 @@ This is the first project of my personal portfolio. [idealista.com](https://www.
 
 * [Data extraction via web scraping](https://github.com/estmelra/idealista/blob/main/scraper.ipynb)
 * [Data cleaning and preparation](https://github.com/estmelra/idealista/blob/main/data_preparation.ipynb)
-* [Exploratory Data Analysis (EDA)](https://google.com](http://nbviewer.org/github/estmelra/idealista/blob/main/eda.ipynb)
+* [Exploratory Data Analysis (EDA)](http://nbviewer.org/github/estmelra/idealista/blob/main/eda.ipynb)
 * Machine Learning Regression model to estimate property price
 
 
